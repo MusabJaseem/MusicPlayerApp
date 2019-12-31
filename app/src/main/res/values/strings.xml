@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Music App (Beta)</string>
+
+    <string-array name="items">
+        <item>Hip-Hop</item>
+        <item>Country</item>
+        <item>Pop</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Your Favorite Artists Include: Drake, Nipsey Hussle, Meek Mill</item>
+        <item>Your Favorite Artists Include: Garth Brooks, Blake Shelton</item>
+        <item>Your Favorite Artists Include: Ariana Grande, Rihanna, Ed Sheeran</item>
+    </string-array>
+
+</resources>
